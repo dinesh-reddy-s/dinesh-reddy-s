@@ -1,37 +1,36 @@
-### Hi, I'm Dinesh 👋
+<div align="left">
 
-Developer based in Hyderabad · B.Sc CSE @ NIAT (2024–2028)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=27AE60&width=500&lines=Hi+there%2C+I'm+Dinesh+%F0%9F%91%8B;Full-Stack+Developer;I+build+projects+that+work+in+the+real+world)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E6E6E&width=435&lines=I+build+full-stack+apps+%26+backend+systems;Chatbots%2C+CRUD+APIs%2C+real-world+web+apps;Always+exploring+new+tech)](https://git.io/typing-svg)
+</div>
 
----
+B.Sc CSE @ NIAT, Hyderabad · 2024–2027
 
-### Core Tech Stack
+I'm a builder. Give me a problem and I'll ship something for it — chatbots, CRUD apps, REST APIs, full-stack systems. I learn fastest by doing, and I have the repos to show it.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- 🚀 Currently building: full-stack apps with FastAPI + React
+- 🛠️ 20+ projects shipped across backend, frontend & ML
+- 💡 I enjoy: going from idea → deployed app as fast as possible
 
----
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-for-the-badge&logo=bootstrap&logoColor=white)
 
-### GitHub Stats
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-for-the-badge&logo=fastapi&logoColor=white)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDineshReddy-06&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDineshReddy-06&layout=compact&hide_border=true" height="150"/>
-</p>
+### 🛢️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=SDineshReddy-06&theme=flat&no-frame=true&column=6&margin-w=4"/>
-</p>
+### 🖥️ Systems
+![C](https://img.shields.io/badge/C-00599C?style=flat-for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-for-the-badge&logo=cplusplus&logoColor=white)
+
+<sub>📍 Hyderabad &nbsp;·&nbsp; 🔗 <a href="https://www.linkedin.com/in/sdineshreddy06/">LinkedIn</a></sub>
