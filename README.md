@@ -17,44 +17,19 @@
   <a href="https://www.linkedin.com/in/sdineshreddy06/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SDineshReddy-06&style=for-the-badge&color=1a1a2e&label=PROFILE+VIEWS"/>
 </p>
 
 <br/>
 
 ---
 
-<h3 align="center">Tech Stack</h3>
-
-<br/>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,python,flask,fastapi,mongodb,postgres,c,cpp&perline=8"/>
 </p>
-<p align="center"><sub>Frontend</sub></p>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi&perline=5"/>
-</p>
-<p align="center"><sub>Backend</sub></p>
-
-<br/>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,c,cpp&perline=4"/>
-</p>
-<p align="center"><sub>Databases & Systems</sub></p>
 
 <br/>
 
 ---
-
-<h3 align="center">Projects</h3>
-
-<br/>
 
 <div align="center">
 
