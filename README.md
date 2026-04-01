@@ -52,8 +52,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/SDineshReddy-06/agriChatBot">
-    <img src="https://img.shields.io/badge/agriChatBot-AI%20chatbot%20for%20agriculture%20queries-1a1a2e?style=for-the-badge&logo=chatbot&logoColor=aaffaa"/>
+  <a href="https://github.com/SDineshReddy-06/userdetails_backend-using-NODE-and-MONGO">
+    <img src="https://img.shields.io/badge/userdetails__backend-Node%20%2B%20MongoDB%20REST%20API%20with%20React%20frontend-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
   </a>
 </p>
 <p align="center">
@@ -67,18 +67,18 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/SDineshReddy-06/InstaClone">
-    <img src="https://img.shields.io/badge/InstaClone-Instagram%20UI%20clone-1a1a2e?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
+  <a href="https://github.com/SDineshReddy-06/agriChatBot">
+    <img src="https://img.shields.io/badge/agriChatBot-AI%20chatbot%20for%20agriculture%20queries-1a1a2e?style=for-the-badge&logo=python&logoColor=aaffaa"/>
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/SDineshReddy-06/shoppingApp">
-    <img src="https://img.shields.io/badge/shoppingApp-End--to--end%20e--commerce%20application-1a1a2e?style=for-the-badge&logo=shopify&logoColor=96bf48"/>
+    <img src="https://img.shields.io/badge/shoppingApp-End--to--end%20e--commerce%20app-1a1a2e?style=for-the-badge&logo=shopify&logoColor=96bf48"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/SDineshReddy-06/userdetails_backend-using-NODE-and-MONGO">
-    <img src="https://img.shields.io/badge/userdetails__backend-Node%20%2B%20MongoDB%20REST%20API%20with%20React%20frontend-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+  <a href="https://github.com/SDineshReddy-06/InstaClone">
+    <img src="https://img.shields.io/badge/InstaClone-Instagram%20UI%20clone-1a1a2e?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
   </a>
 </p>
 
