@@ -2,7 +2,7 @@
 
 Developer based in Hyderabad · B.Sc CSE @ NIAT (2024–2028)
 
-I build full-stack apps and backend systems — chatbots, CRUD APIs, and real-world web apps.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=6E6E6E&width=435&lines=I+build+full-stack+apps+%26+backend+systems;Chatbots%2C+CRUD+APIs%2C+real-world+web+apps;Always+exploring+new+tech)](https://git.io/typing-svg)
 
 ---
 
@@ -21,3 +21,17 @@ I build full-stack apps and backend systems — chatbots, CRUD APIs, and real-wo
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SDineshReddy-06&theme=default&hide_border=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDineshReddy-06&layout=compact&hide_border=true" height="150"/>
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=SDineshReddy-06&theme=flat&no-frame=true&column=6&margin-w=4"/>
+</p>
