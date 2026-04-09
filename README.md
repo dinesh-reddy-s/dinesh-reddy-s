@@ -7,10 +7,10 @@ Focused on APIs, real-time systems, and practical problem-solving.<br><br>
 
 • 🚀 Currently: Building and shipping full-stack applications<br>
 • 🧠 Approach: Learn by building, not just consuming<br>
-• 🛠️ Interests: backend systems, real-time apps, product thinking<br>
+• 🛠️ Interests: backend systems, real-time apps, product thinking<br><br>
 
 ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1E90FF?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2C2C2C?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
@@ -26,5 +26,5 @@ Focused on APIs, real-time systems, and practical problem-solving.<br><br>
 ![C++](https://img.shields.io/badge/C++-1E3A8A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
 <a href="https://www.linkedin.com/in/sdineshreddy06/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
